@@ -25,6 +25,7 @@ Plugin | Version | File name | Last update
 [Black Hole Waste Management](http://community.simtropolis.com/files/file/17907-black-hole-waste-management-v2/) | 2 | Black Hole Waste Management v21.zip | 2007-03-27
 Water, Power and Garbage Utilities | N/A | *see utility dependencies* | N/A
 [Simoleon RH](http://community.simtropolis.com/files/download/21312-simoleon-rh/) | N/A | SimoleonRH.zip | 2003-11-08
+Fire and Police Departments | N/A | *see dependencies* | N/A
 
 
 # Dependencies
@@ -170,7 +171,18 @@ PEG Geothermal Power Plant | PEG_GeoThermalPowerPlant_101.zip
 Solar Tower | Solar Tower.zip
 Black Hole Water Works | Black Hole Water Works1.zip
 [PEG Garbage Chute](http://community.simtropolis.com/files/download/4569-peg-garbage-chute/) | PEG_Garbage-Chute_205-SU.zip
+Black Hole Waste Management Corp | BlackHoleManagementCorp.zip
 
+
+## Fire and Police Departments
+
+Plugin | File name
+------ | ---------
+PARIS very large Fire Department | PK very large FD 6 engines.zip
+PARIS large Police Department | PK large PD.zip
+Modern Glass Police Station | Tonks Police Station.zip
+Simcity Police Headquarters | Simcity Police Headquarters_0c56a0df.zip
+Central Police Station | Jasoncw - Central Police Station.zip
 
 1: The BMD Mediterranean Style Farms contains four zip files:
 
