@@ -169,6 +169,7 @@ PEG Security Fencing Kit | PEG_SecurityFence_RESOURCE_100.zip
 PEG Geothermal Power Plant | PEG_GeoThermalPowerPlant_101.zip
 Solar Tower | Solar Tower.zip
 Black Hole Water Works | Black Hole Water Works1.zip
+[PEG Garbage Chute](http://community.simtropolis.com/files/download/4569-peg-garbage-chute/) | PEG_Garbage-Chute_205-SU.zip
 
 
 1: The BMD Mediterranean Style Farms contains four zip files:
