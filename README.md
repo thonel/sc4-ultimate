@@ -164,8 +164,6 @@ PEG Geothermal Power Plant | PEG_GeoThermalPowerPlant_101.zip
 Solar Tower | Solar Tower.zip
 Black Hole Water Works | Black Hole Water Works1.zip
 
-"""]]
-
 
 1: The BMD Mediterranean Style Farms contains four zip files:
 
