@@ -32,6 +32,7 @@ Water, Power and Garbage Utilities | N/A | *see utility dependencies* | N/A
 ## [CAM](http://sc4devotion.com/forums/index.php?topic=1890.0)
 
 Plugin | File name | Last update
+------ | --------- | -----------
 BSC Essentials | BSC_Install_EssentialFiles.zip | 2008/10/09
 BSC Textures Vol 01 | BSC_Install_texturesVol01.zip | 2007/04/05
 BSC Textures Vol 02 | Install_BSC_Textures_Vol02.zip | 2007/03/29
@@ -73,12 +74,14 @@ Industry Pack 03 | SG_Install_IndustryPack03.zip
 ## RTMT
 
 Plugin | File name
+------ | ---------
 SG Bus Stops BSC | Install_SG_Bus_Stops_BSC.zip
 
 
 ## Simgoober Growables
 
 Plugin | File name
+------ | ---------
 simgoober Residentials Vol01 | Install_SG_Residentials_Vol01_BSC.zip
 simgoober Residentials Vol02 | Install_SG_Residentials_Vol02_BSC.zip
 simgoober Residentials Vol03 | Install_SG_Residentials_Vol03_BSC.zip
@@ -121,6 +124,7 @@ BSC Textures Vol 02 | Install_BSC_Textures_Vol02.zip
 ## Simgoober Education Lots BSC
 
 Plugin | File name
+------ | ---------
 BSC Essentials | BSC_Install_EssentialFiles.zip
 Simgoober Education Models BSC | Install_SG_Education_Models_BSC.zip
 BSC MEGA Props - Misc Vol01 | Install_BSC_MEGA_Props_Misc_Vol01.zip
@@ -137,6 +141,7 @@ BSC Textures Vol 02 | Install_BSC_Textures_Vol02.zip
 ## Paeng's Parks Revisited
 
 Plugin | File name
+------ | ---------
 Paeng Texture Pack v104 | paeng_TexturePack_v104.zip
 Murimk Props Vol02 v2.01 | Murimk_Props_Vol02_v201.zip
 BSC MEGA Props - SG Vol 01 | SG_INSTALL_MEGAProps01.zip
@@ -154,6 +159,7 @@ SPOT | SPOT_V-rc101.zip
 
 
 Plugin | File name
+------ | ---------
 Microwave Rectenna Plant by SOMY | Somy Microwave Rectenna Plant.zip
 Ionizer Hydro Power System | IHPS.zip
 NOB Power Plant | NOB_PowerPlant.zip
