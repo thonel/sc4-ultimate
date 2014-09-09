@@ -26,6 +26,7 @@ Plugin | Version | File name | Last update
 Water, Power and Garbage Utilities | N/A | *see utility dependencies* | N/A
 [Simoleon RH](http://community.simtropolis.com/files/download/21312-simoleon-rh/) | N/A | SimoleonRH.zip | 2003-11-08
 Fire and Police Departments | N/A | *see dependencies* | N/A
+[Public Pools Pack](http://community.simtropolis.com/files/file/14522-public-pools-pack/) | N/A | SG_Install_Public Pools.zip | 2005-12-31
 
 
 # Dependencies
@@ -183,6 +184,18 @@ PARIS large Police Department | PK large PD.zip
 Modern Glass Police Station | Tonks Police Station.zip
 Simcity Police Headquarters | Simcity Police Headquarters_0c56a0df.zip
 Central Police Station | Jasoncw - Central Police Station.zip
+LBT Mega Prop Pack vol.01 | LBT_MegaPropPack_En.zip
+LBT Mega Texture Pack vol.02 | LBT_MegaTexturePack_En.zip
+LBT Fire Station Pack | LBT_FireStations.zip
+LBT Police Stations Pack | LBT_PoliceStPack.zip
+
+
+## Public Pools Pack
+
+Plugin | File name
+------ | ---------
+BSC Essentials | BSC_Install_EssentialFiles.zip
+BSC Textures Vol 01 | BSC_Install_texturesVol01.zip
 
 1: The BMD Mediterranean Style Farms contains four zip files:
 
