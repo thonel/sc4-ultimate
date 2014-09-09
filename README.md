@@ -66,6 +66,7 @@ NDEX Atlantic Plaza by Oneil | NDEX Atlantic Plaza.zip
 Plugin | File name
 ------ | ---------
 [Simgoober Education Lots BSC](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1382) | Install_SG_Education_Lots_BSC.zip
+[SOMY Consolidated Hospital Complex](http://community.simtropolis.com/files/file/11175-somy-consolidated-hospital-complex/) | SOMY_Consolidated_Hospital.zip
 
 
 # Fire and Police Departments
