@@ -22,7 +22,6 @@ Plugin | Version | File name | Last update
 [SimFox Day and Nite Modd](http://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/) | 1 | SimFox_Day_n_Nite_Modd.zip |  2011-08-13
 [Realistic Water](http://community.simtropolis.com/files/file/21304-realistic-water-v1-by-joerg-and-teirusu/) | 1 | DarkBlueishGreenish.zip | 2003-11-24
 [Simgoober Education Lots BSC](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1382) | 1.0 | Install_SG_Education_Lots_BSC.zip | 2007-12-14
-[Black Hole Waste Management](http://community.simtropolis.com/files/file/17907-black-hole-waste-management-v2/) | 2 | Black Hole Waste Management v21.zip | 2007-03-27
 Water, Power and Garbage Utilities | N/A | *see utility dependencies* | N/A
 [Simoleon RH](http://community.simtropolis.com/files/download/21312-simoleon-rh/) | N/A | SimoleonRH.zip | 2003-11-08
 Fire and Police Departments | N/A | *see dependencies* | N/A
@@ -173,6 +172,7 @@ Solar Tower | Solar Tower.zip
 Black Hole Water Works | Black Hole Water Works1.zip
 [PEG Garbage Chute](http://community.simtropolis.com/files/download/4569-peg-garbage-chute/) | PEG_Garbage-Chute_205-SU.zip
 Black Hole Waste Management Corp | BlackHoleManagementCorp.zip
+[Black Hole Waste Management](http://community.simtropolis.com/files/file/17907-black-hole-waste-management-v2/) | 2 | Black Hole Waste Management v21.zip | 2007-03-27
 
 
 ## Fire and Police Departments
