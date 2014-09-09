@@ -158,9 +158,6 @@ BMD Mediterranean Style Farms[1] | BMD Med style Farms and fields.zip | 2007/02/
 BSC MEGA Props MBEAR Vol01 | Install_BSC_MEGA_Props_MBEAR_Vol01.zip | 2007/02/13
 BSC MEGA Props MBEAR Vol02 | Install_BSC_MEGA_Props_MBEAR_Vol02.zip | 2007/02/13
 BSC MEGA Props - MBEAR Vol03 | Install_BSCMEGAProps_MBEARVol03.zip | 2007/11/04
-Industry Pack 01 | SG_Install_IndustrialPack01.zip
-Industry Pack 02 | SG_Install_IndustrialPack02.zip
-Industry Pack 03 | SG_Install_IndustryPack03.zip
 
 
 ## RTMT
@@ -211,6 +208,9 @@ PEG MTP Mountain Theme Pack | PEG_Mountain-Theme-Pack_205a_SU.zip
 PEG MTP Texture Pack 2a | PEG-MTP_TexturePack_Vol2a_SU.zip
 BSC Textures Vol 01 | BSC_Install_texturesVol01.zip
 BSC Textures Vol 02 | Install_BSC_Textures_Vol02.zip
+Industry Pack 01 | SG_Install_IndustrialPack01.zip
+Industry Pack 02 | SG_Install_IndustrialPack02.zip
+Industry Pack 03 | SG_Install_IndustryPack03.zip
 
 
 ## Simgoober Education Lots BSC
