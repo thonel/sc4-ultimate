@@ -86,6 +86,7 @@ BSC TexturePack Cycledogg V 01b |  Install_BSC_TexturePack_Cycledogg_V 01b.zip |
 BSC Textures Vol 01 | BSC_Install_texturesVol01.zip | 2007/04/05
 [GooberGen Rural Hospital](http://community.simtropolis.com/files/file/16015-goobergen-rural-hospital/) | SG_Install_GooberGenRuralHospital.zip
 [University Clinic](http://community.simtropolis.com/files/download/575-university-clinic/) | UniversityClinic.zip
+[University of Applied Sciences](http://community.simtropolis.com/files/download/3439-university-of-applied-sciences/) | FH-Koeln-0x5ad0e817_0xcd34d9c6_0x690000.zip
 
 
 # Fire and Police Departments
