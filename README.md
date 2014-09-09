@@ -35,30 +35,37 @@ Plugin | File name
 ------ | ---------
 [Simgoober Growables](#simgoober-growables) | *see dependencies*
 [Functional Landmarks Complete Set](http://community.simtropolis.com/files/file/21340-functional-landmarks-complete-set-v1-0/) | FunctionalLandmarks.zip
-MENARA BATAVIA | Batavia Update.zip 
-DuskTroopers Keaton Plaza | DuskTroopers Keaton Plaza.zip
-McDonalds v1 | Install_McDonalds_kevdan25_BSC.zip
-HK Garden Estate Towers | HK Garden Estate Towers (Bixel).zip
+[MENARA BATAVIA](http://community.simtropolis.com/files/file/23667-menara-batavia-update/) | Batavia Update.zip 
+[DuskTroopers Keaton Plaza](http://community.simtropolis.com/files/file/2780-dusktroopers-keaton-plaza/) | DuskTroopers Keaton Plaza.zip
+[McDonalds v1](http://community.simtropolis.com/files/file/11053-mcdonalds-v1/) | Install_McDonalds_kevdan25_BSC.zip
+[HK Garden Estate Towers](http://community.simtropolis.com/files/file/15848-hk-garden-estate-towers/) | HK Garden Estate Towers (Bixel).zip
 BSC Essentials | BSC_Install_EssentialFiles.zip
 NDEX Global Essentials | NDEX Essentials Installer.zip
 NDEX Texture Set Volume 1 | NDEX Texture Pack Volume 1.zip
-NDEX Wilkshire Tower by Conceptual | NDEX Wilkshire Tower2.zip
-Washington Tower | Washington Tower1.zip
-nVIDIA Corporation Building |  nvidia corp by Blanco - TSC team.zip
-DUSKTROOPERS WILLTRANS CORP TOWER | DUSKTROOPER's WILLTRANS CORP V1.01.zip
-Tung Chung Crescent | TungChungCrescent.zip
-The Cobb Oceanic | Cobb32118_Cobb_Oceanic1.zip
-XDesign Polish Prefabs Set Volume I | XDesign Polish Prefabs Set Volume I.zip
+[NDEX Wilkshire Tower by Conceptual](http://community.simtropolis.com/files/file/11538-ndex-wilkshire-tower-by-conceptual/) | NDEX Wilkshire Tower2.zip
+[Washington Tower](http://community.simtropolis.com/files/file/3392-washington-tower/) | Washington Tower1.zip
+[nVIDIA Corporation Building](http://community.simtropolis.com/files/file/19149-nvidia-corporation-building/) |  nvidia corp by Blanco - TSC team.zip
+[DUSKTROOPERS WILLTRANS CORP TOWER](http://community.simtropolis.com/files/file/2543-dusktroopers-willtrans-corp-tower/) | DUSKTROOPER's WILLTRANS CORP V1.01.zip
+[Tung Chung Crescent](http://community.simtropolis.com/files/file/16494-tung-chung-crescent/) | TungChungCrescent.zip
+[The Cobb Oceanic](http://community.simtropolis.com/files/file/3480-the-cobb-oceanic/) | Cobb32118_Cobb_Oceanic1.zip
+[XDesign Polish Prefabs Set Volume I](http://community.simtropolis.com/files/file/15600-xdesign-polish-prefabs-set-volume-i/) | XDesign Polish Prefabs Set Volume I.zip
 Cerulean Textures V101 | Cerulean_Textures_V101v51.zip
-NDEX SeaView Tower by Oneil | NDEX_SeaView_Tower_V2.zip
-Robust Robots Inc | PR_RobustRobotsInc.zip
-Bank One Tower Indianapolis | Bank One Building.zip
-Petronas Twin Towers | PetronasProjectVersion11.zip
-DuskTroopers Frank Archai Tower | DuskTrooper's Frank & Archai Tower.zip
-NDEX PanPacific Building by DuskTrooper | NDEX PanPacific Building v2.zip
-Burj Dubai | Burj Dubai.zip
-LG Electronics | LG Electronics1.zip
-NDEX Atlantic Plaza by Oneil | NDEX Atlantic Plaza.zip
+[NDEX SeaView Tower by Oneil](http://community.simtropolis.com/files/file/11209-ndex-seaview-tower-by-oneil/) | NDEX_SeaView_Tower_V2.zip
+[Robust Robots Inc](http://community.simtropolis.com/files/file/11802-robust-robots-inc/) | PR_RobustRobotsInc.zip
+[Bank One Tower Indianapolis](http://community.simtropolis.com/files/file/10912-bank-one-tower-indianapolis/) | Bank One Building.zip
+[Petronas Twin Towers](http://community.simtropolis.com/files/file/3464-petronas-twin-towers/) | PetronasProjectVersion11.zip
+[The Cobb Grand Plaza](http://community.simtropolis.com/files/file/3774-the-cobb-grand-plaza/) | Cobb32118_Cobb_Grand_Plaza.zip
+[DuskTroopers Frank Archai Tower](http://community.simtropolis.com/files/file/2896-dusktroopers-frank-archai-tower/) | DuskTrooper's Frank & Archai Tower.zip
+[NDEX PanPacific Building by DuskTrooper](http://community.simtropolis.com/files/file/4535-ndex-panpacific-building-by-dusktrooper/) | NDEX PanPacific Building v2.zip
+[Burj Dubai](http://community.simtropolis.com/files/file/16672-burj-dubai/) | Burj Dubai.zip
+[LG Electronics](http://community.simtropolis.com/files/file/18325-lg-electronics/) | LG Electronics1.zip
+[NDEX Atlantic Plaza by Oneil](http://community.simtropolis.com/files/file/11579-ndex-atlantic-plaza-by-oneil/) | NDEX Atlantic Plaza.zip
+Porkie Props Vol01 | PorkieProps-Vol1.zip
+[Paris AUX QUATRE SAISONS shopping center](http://community.simtropolis.com/files/file/12226-paris-aux-quatre-saisons-shopping-center/) | 4saisons.zip
+[NDEX IntreGen Corporate Center](http://community.simtropolis.com/files/file/4137-ndex-intregen-corporate-center/) | NDEX IntreGen Corporate Center.zip
+[New Anfield Stadium AKA Stanley Park](http://community.simtropolis.com/files/file/16765-new-anfield-stadium-aka-stanley-park/) | NewAnfieldV2.zip
+[NDEX Diamond Financial Center](http://community.simtropolis.com/files/file/13671-ndex-diamond-financial-center/) · | NDEX - Diamond Financial Center.zip
+[One and Two World Trade](http://community.simtropolis.com/files/file/2626-one-and-two-world-trade/) | WTCTowers.zip
 
 
 # Health and Education
