@@ -67,6 +67,15 @@ Plugin | File name
 ------ | ---------
 [Simgoober Education Lots BSC](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1382) | Install_SG_Education_Lots_BSC.zip
 [SOMY Consolidated Hospital Complex](http://community.simtropolis.com/files/file/11175-somy-consolidated-hospital-complex/) | SOMY_Consolidated_Hospital.zip
+[LBT Hospitals Pack Version Gold](http://community.simtropolis.com/files/download/20035-lbt-hospitals-pack-version-gold/) | LBT Hospitals Pack Gold.zip
+BSC Essentials | BSC_Install_EssentialFiles.zip
+BSC MEGA Props - SG Vol 01 | SG_INSTALL_MEGAProps01.zip | 2007/04/23
+[GooberGen Hospital](http://community.simtropolis.com/files/file/14479-goobergen-hospital/) | SG_Install_GooberGenHospital.zip
+[Simtropolis Metro Mercy Center Revised](http://community.simtropolis.com/files/file/3395-simtropolis-metro-mercy-center-revised/) | SMM.zip
+[Linda Swampy Medical Centre](http://community.simtropolis.com/files/file/27565-linda-swampy-medical-centre/) | DARKNIGHT_LSMC.zip
+BSC TexturePack Cycledogg V 01b |  Install_BSC_TexturePack_Cycledogg_V 01b.zip | 2007/01/30
+BSC Textures Vol 01 | BSC_Install_texturesVol01.zip | 2007/04/05
+[GooberGen Rural Hospital](http://community.simtropolis.com/files/file/16015-goobergen-rural-hospital/) | SG_Install_GooberGenRuralHospital.zip
 
 
 # Fire and Police Departments
@@ -90,8 +99,6 @@ Plugin | File name
 ------ | ---------
 [Paeng's Parks Revisited](http://community.simtropolis.com/files/file/26923-paengs-parks-revisited/) | Parks_v205.zip
 [Public Pools Pack](http://community.simtropolis.com/files/file/14522-public-pools-pack/) | SG_Install_Public Pools.zip
-[LBT Hospitals Pack Version Gold](http://community.simtropolis.com/files/download/20035-lbt-hospitals-pack-version-gold/) | LBT Hospitals Pack Gold.zip
-[GooberGen Hospital](http://community.simtropolis.com/files/file/14479-goobergen-hospital/) | SG_Install_GooberGenHospital.zip
 
 
 # Utilities
