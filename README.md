@@ -26,6 +26,7 @@ Water, Power and Garbage Utilities | N/A | *see utility dependencies* | N/A
 [Simoleon RH](http://community.simtropolis.com/files/download/21312-simoleon-rh/) | N/A | SimoleonRH.zip | 2003-11-08
 Fire and Police Departments | N/A | *see dependencies* | N/A
 [Public Pools Pack](http://community.simtropolis.com/files/file/14522-public-pools-pack/) | N/A | SG_Install_Public Pools.zip | 2005-12-31
+Buildings | N/A | *see dependencies | N/A
 
 
 # Dependencies
@@ -196,6 +197,37 @@ Plugin | File name
 ------ | ---------
 BSC Essentials | BSC_Install_EssentialFiles.zip
 BSC Textures Vol 01 | BSC_Install_texturesVol01.zip
+
+
+## Buildings
+
+Plugin | File name
+------ | ---------
+MENARA BATAVIA | Batavia Update.zip 
+DuskTroopers Keaton Plaza | DuskTroopers Keaton Plaza.zip
+McDonalds v1 | Install_McDonalds_kevdan25_BSC.zip
+HK Garden Estate Towers | HK Garden Estate Towers (Bixel).zip
+BSC Essentials | BSC_Install_EssentialFiles.zip
+NDEX Global Essentials | NDEX Essentials Installer.zip
+NDEX Texture Set Volume 1 | NDEX Texture Pack Volume 1.zip
+NDEX Wilkshire Tower by Conceptual | NDEX Wilkshire Tower2.zip
+Washington Tower | Washington Tower1.zip
+nVIDIA Corporation Building |  nvidia corp by Blanco - TSC team.zip
+DUSKTROOPERS WILLTRANS CORP TOWER | DUSKTROOPER's WILLTRANS CORP V1.01.zip
+Tung Chung Crescent | TungChungCrescent.zip
+The Cobb Oceanic | Cobb32118_Cobb_Oceanic1.zip
+XDesign Polish Prefabs Set Volume I | XDesign Polish Prefabs Set Volume I.zip
+Cerulean Textures V101 | Cerulean_Textures_V101v51.zip
+NDEX SeaView Tower by Oneil | NDEX_SeaView_Tower_V2.zip
+Robust Robots Inc | PR_RobustRobotsInc.zip
+Bank One Tower Indianapolis | Bank One Building.zip
+Petronas Twin Towers | PetronasProjectVersion11.zip
+DuskTroopers Frank Archai Tower | DuskTrooper's Frank & Archai Tower.zip
+NDEX PanPacific Building by DuskTrooper | NDEX PanPacific Building v2.zip
+Burj Dubai | Burj Dubai.zip
+LG Electronics | LG Electronics1.zip
+NDEX Atlantic Plaza by Oneil | NDEX Atlantic Plaza.zip
+
 
 1: The BMD Mediterranean Style Farms contains four zip files:
 
