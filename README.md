@@ -27,7 +27,7 @@ Plugin | Version | File name | Last update
 [SimFox Day and Nite Modd](http://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/) | 1 | SimFox_Day_n_Nite_Modd.zip |  2011-08-13
 [Realistic Water](http://community.simtropolis.com/files/file/21304-realistic-water-v1-by-joerg-and-teirusu/) | 1 | DarkBlueishGreenish.zip | 2003-11-24
 [Simoleon RH](http://community.simtropolis.com/files/download/21312-simoleon-rh/) | N/A | SimoleonRH.zip | 2003-11-08
-[Light Replacement Mod - SimCity 2013](http://community.simtropolis.com/files/file/28379-light-replacement-mod-simcity-2013/) | v5.1 | LRMv5_SC2013_Set.zip
+[Light Replacement Mod - SimCity 2013](http://community.simtropolis.com/files/file/28379-light-replacement-mod-simcity-2013/) | v5.1 | LRMv5_SC2013_Set.zip | 2013-04-14
 
 
 # Buildings and Landmarks
