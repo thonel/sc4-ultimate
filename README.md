@@ -66,6 +66,8 @@ Porkie Props Vol01 | PorkieProps-Vol1.zip
 [New Anfield Stadium AKA Stanley Park](http://community.simtropolis.com/files/file/16765-new-anfield-stadium-aka-stanley-park/) | NewAnfieldV2.zip
 [NDEX Diamond Financial Center](http://community.simtropolis.com/files/file/13671-ndex-diamond-financial-center/) · | NDEX - Diamond Financial Center.zip
 [One and Two World Trade](http://community.simtropolis.com/files/file/2626-one-and-two-world-trade/) | WTCTowers.zip
+[NDEX Tiberian Thanefirst by DuskTrooper](http://community.simtropolis.com/files/file/12622-ndex-tiberian-thanefirst-by-dusktrooper/) · | NDEX Tiberian Thanefirst Center.zip
+[NDEX Windspear Arena](http://community.simtropolis.com/files/download/11745-ndex-windspear-arena-by-eburress/) | NDEX Windspear Arena.zip
 
 
 # Health and Education
