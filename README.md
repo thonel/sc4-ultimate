@@ -1,8 +1,16 @@
 
 
-* [Original Plugin Pack](http://www.reddit.com/r/simcitymods/comments/1amg66/simcity_4_starter_plugin_pack_for_spmp_updated/)
 
-# Plugins
+* [Mods](#mods)
+* [Buildings and Landmarks](#buildings-and-landmarks)
+* [Health and Education](#health-and-education)
+* [Fire and Police Departments](#fire-and-police-departments)
+* [Parks](#parks)
+* [Utilities](#utilities)
+* [Dependencies](#dependencies)
+
+
+# Mods
 
 Plugin | Version | File name | Last update
 ------ | ------- | --------- | -----------
@@ -13,20 +21,93 @@ Plugin | Version | File name | Last update
 [Radius Doubler Mod](http://community.simtropolis.com/files/file/13696-radius-doubler-mod/) | N/A | radius_doubler.zip | 2005-09-22
 [Crime Doesnt Pay](http://community.simtropolis.com/files/file/21339-crime-doesnt-pay/) | N/A | CrimeDoesntPay.zip | 2003-11-04
 [Census Repository Facility](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1831) | 3.1 | Install_RJ_Census_Repository_Facility_v3.zip | 2009/11/21
-[Simgoober Growables](#simgoober) | N/A | *see Simgoober dependencies* | N/A
-[Paeng's Parks Revisited](http://community.simtropolis.com/files/file/26923-paengs-parks-revisited/) | 2.05 | Parks_v205.zip | 2011-10-28
 [God Terraforming in Mayor Mode](http://community.simtropolis.com/files/file/20092-god-terraforming-in-mayor-mode/) | N/A | GTM STEX.zip | 2011-04-15
 [RCI Query Upgrade Mod 1.2](http://community.simtropolis.com/files/file/4243-rci-query-upgrade-mod/) | 1.2 | Equinox_RCI_Query_Upgrade_Mod_V2.zip | 2004-11-12
 [Hole Digging Lots](http://community.simtropolis.com/files/file/3599-hole-digging-lots/) | 2 | Hole Digging Lots V2.zip | 2004-07-14
-[Functional Landmarks Complete Set](http://community.simtropolis.com/files/file/21340-functional-landmarks-complete-set-v1-0/) | 1.0 | FunctionalLandmarks.zip | 2004-03-16
 [SimFox Day and Nite Modd](http://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/) | 1 | SimFox_Day_n_Nite_Modd.zip |  2011-08-13
 [Realistic Water](http://community.simtropolis.com/files/file/21304-realistic-water-v1-by-joerg-and-teirusu/) | 1 | DarkBlueishGreenish.zip | 2003-11-24
-[Simgoober Education Lots BSC](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1382) | 1.0 | Install_SG_Education_Lots_BSC.zip | 2007-12-14
-Water, Power and Garbage Utilities | N/A | *see utility dependencies* | N/A
 [Simoleon RH](http://community.simtropolis.com/files/download/21312-simoleon-rh/) | N/A | SimoleonRH.zip | 2003-11-08
-Fire and Police Departments | N/A | *see dependencies* | N/A
-[Public Pools Pack](http://community.simtropolis.com/files/file/14522-public-pools-pack/) | N/A | SG_Install_Public Pools.zip | 2005-12-31
-Buildings | N/A | *see dependencies | N/A
+
+
+# Buildings and Landmarks
+
+Plugin | File name
+------ | ---------
+[Simgoober Growables](#simgoober-growables) | *see dependencies*
+[Functional Landmarks Complete Set](http://community.simtropolis.com/files/file/21340-functional-landmarks-complete-set-v1-0/) | FunctionalLandmarks.zip
+MENARA BATAVIA | Batavia Update.zip 
+DuskTroopers Keaton Plaza | DuskTroopers Keaton Plaza.zip
+McDonalds v1 | Install_McDonalds_kevdan25_BSC.zip
+HK Garden Estate Towers | HK Garden Estate Towers (Bixel).zip
+BSC Essentials | BSC_Install_EssentialFiles.zip
+NDEX Global Essentials | NDEX Essentials Installer.zip
+NDEX Texture Set Volume 1 | NDEX Texture Pack Volume 1.zip
+NDEX Wilkshire Tower by Conceptual | NDEX Wilkshire Tower2.zip
+Washington Tower | Washington Tower1.zip
+nVIDIA Corporation Building |  nvidia corp by Blanco - TSC team.zip
+DUSKTROOPERS WILLTRANS CORP TOWER | DUSKTROOPER's WILLTRANS CORP V1.01.zip
+Tung Chung Crescent | TungChungCrescent.zip
+The Cobb Oceanic | Cobb32118_Cobb_Oceanic1.zip
+XDesign Polish Prefabs Set Volume I | XDesign Polish Prefabs Set Volume I.zip
+Cerulean Textures V101 | Cerulean_Textures_V101v51.zip
+NDEX SeaView Tower by Oneil | NDEX_SeaView_Tower_V2.zip
+Robust Robots Inc | PR_RobustRobotsInc.zip
+Bank One Tower Indianapolis | Bank One Building.zip
+Petronas Twin Towers | PetronasProjectVersion11.zip
+DuskTroopers Frank Archai Tower | DuskTrooper's Frank & Archai Tower.zip
+NDEX PanPacific Building by DuskTrooper | NDEX PanPacific Building v2.zip
+Burj Dubai | Burj Dubai.zip
+LG Electronics | LG Electronics1.zip
+NDEX Atlantic Plaza by Oneil | NDEX Atlantic Plaza.zip
+
+
+# Health and Education
+
+Plugin | File name
+------ | ---------
+[Simgoober Education Lots BSC](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1382) | Install_SG_Education_Lots_BSC.zip
+
+
+# Fire and Police Departments
+
+Plugin | File name
+------ | ---------
+PARIS very large Fire Department | PK very large FD 6 engines.zip
+PARIS large Police Department | PK large PD.zip
+Modern Glass Police Station | Tonks Police Station.zip
+Simcity Police Headquarters | Simcity Police Headquarters_0c56a0df.zip
+Central Police Station | Jasoncw - Central Police Station.zip
+LBT Mega Prop Pack vol.01 | LBT_MegaPropPack_En.zip
+LBT Mega Texture Pack vol.02 | LBT_MegaTexturePack_En.zip
+LBT Fire Station Pack | LBT_FireStations.zip
+LBT Police Stations Pack | LBT_PoliceStPack.zip
+
+
+# Parks
+
+Plugin | File name
+------ | ---------
+[Paeng's Parks Revisited](http://community.simtropolis.com/files/file/26923-paengs-parks-revisited/) | Parks_v205.zip
+[Public Pools Pack](http://community.simtropolis.com/files/file/14522-public-pools-pack/) | SG_Install_Public Pools.zip
+
+
+
+# Utilities
+
+Plugin | File name
+------ | ---------
+Microwave Rectenna Plant by SOMY | Somy Microwave Rectenna Plant.zip
+Ionizer Hydro Power System | IHPS.zip
+NOB Power Plant | NOB_PowerPlant.zip
+SFBT Essentials | SFBT_Essentials_March_2009_Setup.zip
+SFBT Microwave Power Plant by Stolloss | SFBT_microwave_power_plant1.zip
+PEG Security Fencing Kit | PEG_SecurityFence_RESOURCE_100.zip
+PEG Geothermal Power Plant | PEG_GeoThermalPowerPlant_101.zip
+Solar Tower | Solar Tower.zip
+Black Hole Water Works | Black Hole Water Works1.zip
+[PEG Garbage Chute](http://community.simtropolis.com/files/download/4569-peg-garbage-chute/) | PEG_Garbage-Chute_205-SU.zip
+Black Hole Waste Management Corp | BlackHoleManagementCorp.zip
+[Black Hole Waste Management](http://community.simtropolis.com/files/file/17907-black-hole-waste-management-v2/) | 2 | Black Hole Waste Management v21.zip | 2007-03-27
 
 
 # Dependencies
@@ -156,77 +237,12 @@ Porkie Props Vol02 | PorkieProps-Vol2.zip
 SPOT | SPOT_V-rc101.zip
 
 
-
-## Utilities
-
-
-Plugin | File name
------- | ---------
-Microwave Rectenna Plant by SOMY | Somy Microwave Rectenna Plant.zip
-Ionizer Hydro Power System | IHPS.zip
-NOB Power Plant | NOB_PowerPlant.zip
-SFBT Essentials | SFBT_Essentials_March_2009_Setup.zip
-SFBT Microwave Power Plant by Stolloss | SFBT_microwave_power_plant1.zip
-PEG Security Fencing Kit | PEG_SecurityFence_RESOURCE_100.zip
-PEG Geothermal Power Plant | PEG_GeoThermalPowerPlant_101.zip
-Solar Tower | Solar Tower.zip
-Black Hole Water Works | Black Hole Water Works1.zip
-[PEG Garbage Chute](http://community.simtropolis.com/files/download/4569-peg-garbage-chute/) | PEG_Garbage-Chute_205-SU.zip
-Black Hole Waste Management Corp | BlackHoleManagementCorp.zip
-[Black Hole Waste Management](http://community.simtropolis.com/files/file/17907-black-hole-waste-management-v2/) | 2 | Black Hole Waste Management v21.zip | 2007-03-27
-
-
-## Fire and Police Departments
-
-Plugin | File name
------- | ---------
-PARIS very large Fire Department | PK very large FD 6 engines.zip
-PARIS large Police Department | PK large PD.zip
-Modern Glass Police Station | Tonks Police Station.zip
-Simcity Police Headquarters | Simcity Police Headquarters_0c56a0df.zip
-Central Police Station | Jasoncw - Central Police Station.zip
-LBT Mega Prop Pack vol.01 | LBT_MegaPropPack_En.zip
-LBT Mega Texture Pack vol.02 | LBT_MegaTexturePack_En.zip
-LBT Fire Station Pack | LBT_FireStations.zip
-LBT Police Stations Pack | LBT_PoliceStPack.zip
-
-
 ## Public Pools Pack
 
 Plugin | File name
 ------ | ---------
 BSC Essentials | BSC_Install_EssentialFiles.zip
 BSC Textures Vol 01 | BSC_Install_texturesVol01.zip
-
-
-## Buildings
-
-Plugin | File name
------- | ---------
-MENARA BATAVIA | Batavia Update.zip 
-DuskTroopers Keaton Plaza | DuskTroopers Keaton Plaza.zip
-McDonalds v1 | Install_McDonalds_kevdan25_BSC.zip
-HK Garden Estate Towers | HK Garden Estate Towers (Bixel).zip
-BSC Essentials | BSC_Install_EssentialFiles.zip
-NDEX Global Essentials | NDEX Essentials Installer.zip
-NDEX Texture Set Volume 1 | NDEX Texture Pack Volume 1.zip
-NDEX Wilkshire Tower by Conceptual | NDEX Wilkshire Tower2.zip
-Washington Tower | Washington Tower1.zip
-nVIDIA Corporation Building |  nvidia corp by Blanco - TSC team.zip
-DUSKTROOPERS WILLTRANS CORP TOWER | DUSKTROOPER's WILLTRANS CORP V1.01.zip
-Tung Chung Crescent | TungChungCrescent.zip
-The Cobb Oceanic | Cobb32118_Cobb_Oceanic1.zip
-XDesign Polish Prefabs Set Volume I | XDesign Polish Prefabs Set Volume I.zip
-Cerulean Textures V101 | Cerulean_Textures_V101v51.zip
-NDEX SeaView Tower by Oneil | NDEX_SeaView_Tower_V2.zip
-Robust Robots Inc | PR_RobustRobotsInc.zip
-Bank One Tower Indianapolis | Bank One Building.zip
-Petronas Twin Towers | PetronasProjectVersion11.zip
-DuskTroopers Frank Archai Tower | DuskTrooper's Frank & Archai Tower.zip
-NDEX PanPacific Building by DuskTrooper | NDEX PanPacific Building v2.zip
-Burj Dubai | Burj Dubai.zip
-LG Electronics | LG Electronics1.zip
-NDEX Atlantic Plaza by Oneil | NDEX Atlantic Plaza.zip
 
 
 1: The BMD Mediterranean Style Farms contains four zip files:
