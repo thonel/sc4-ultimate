@@ -90,7 +90,8 @@ Plugin | File name
 ------ | ---------
 [Paeng's Parks Revisited](http://community.simtropolis.com/files/file/26923-paengs-parks-revisited/) | Parks_v205.zip
 [Public Pools Pack](http://community.simtropolis.com/files/file/14522-public-pools-pack/) | SG_Install_Public Pools.zip
-
+[LBT Hospitals Pack Version Gold](http://community.simtropolis.com/files/download/20035-lbt-hospitals-pack-version-gold/) | LBT Hospitals Pack Gold.zip
+[GooberGen Hospital](http://community.simtropolis.com/files/file/14479-goobergen-hospital/) | SG_Install_GooberGenHospital.zip
 
 
 # Utilities
