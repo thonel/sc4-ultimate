@@ -76,6 +76,7 @@ BSC MEGA Props - SG Vol 01 | SG_INSTALL_MEGAProps01.zip | 2007/04/23
 BSC TexturePack Cycledogg V 01b |  Install_BSC_TexturePack_Cycledogg_V 01b.zip | 2007/01/30
 BSC Textures Vol 01 | BSC_Install_texturesVol01.zip | 2007/04/05
 [GooberGen Rural Hospital](http://community.simtropolis.com/files/file/16015-goobergen-rural-hospital/) | SG_Install_GooberGenRuralHospital.zip
+[University Clinic](http://community.simtropolis.com/files/download/575-university-clinic/) | UniversityClinic.zip
 
 
 # Fire and Police Departments
