@@ -169,7 +169,7 @@ Plugin | File name | Last update
 [BSC MEGA Props Gascooker Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=397) | Install_BSC_MEGA_Props_Gascooker_Vol01.zip | 2007/02/15
 [BSC MEGA Props - Gascooker Vol02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=934) | Install_BSCMEGAProps_Gascooker_Vol02.zip | 2007/06/30
 [Porkie Props Vol01](http://community.simtropolis.com/files/file/11421-porkie-props-vol1-european-street-accessories/) | PorkieProps-Vol1.zip | 2005/01/17
-[Porkie Props Vol02](http://www.simtropolis.com/forum/files/file/11420-porkie-props-vol2-seasonal-street-trees/) | PorkieProps-Vol2.zip | 2005/01/27
+[Porkie Props Vol02](http://community.simtropolis.com/forum/files/file/11420-porkie-props-vol2-seasonal-street-trees/) | PorkieProps-Vol2.zip | 2005/01/27
 [Railyard and Spur Textures, Mega Pack 1.02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=2177) | Install_ncd_Railyard Texture Mega-Pack Vol 1.02.zip | 2009/08/26
 [BSC Mega Props DAE Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=475) | DEDWD_MEGAPropPack_v100.zip  | 2007/02/20
 [CSX MEGA Props - Vol05](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=463) | Install_CSX MEGA Props - Vol 05.zip  | 2007/02/18
