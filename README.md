@@ -1,5 +1,12 @@
 
+# Simcity 4 Ultimate Plugin Pack
 
+Every dependency handled very carefully. Customizable one click installer will
+handle dependencies for you. Screenshot from installer:
+
+![Installer](https://i.imgur.com/CTvzilS.png)
+
+Simcity 4 Ultimate Plugin Pack contains following plugins:
 
 * [Mods](#mods)
 * [Buildings and Landmarks](#buildings-and-landmarks)
@@ -8,6 +15,13 @@
 * [Parks](#parks)
 * [Utilities](#utilities)
 * [Dependencies](#dependencies)
+
+
+*Note for developers:* This repository is created and maintained with
+[git-annex](https://git-annex.branchable.com/). That means you can't access
+binary files in this repository. Annexed repository is not available ATM.
+I will upload annexed repository to some place and make it available to
+everyone.
 
 
 # Mods
