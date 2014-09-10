@@ -6,8 +6,18 @@ AppVersion=0.1
 DefaultDirName={userdocs}\Simcity 4
 DefaultGroupName=Simcity 4
 OutputDir=C:\SC4_ULTIMATE
+
+; Disable some pages to simplify installer
+; Basically only components and finished page is visible
+; I am not sure disabling dir page is a good idea. People may not like it.
+DisableDirPage=yes
+DisableReadyPage=yes
+DisableStartupPrompt=yes
+DisableWelcomePage=yes
+DisableProgramGroupPage=yes
+
 ; for testing
-Compression=lzma2/fast
+;Compression=lzma2/fast
 
 
 [Types]
