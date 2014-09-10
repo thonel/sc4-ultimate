@@ -219,3 +219,58 @@ Source: "Plugins/Utilities/SFBT Microwave Power Plant/*"; DestDir: "{app}/Plugin
 Source: "Plugins/Utilities/Somy Microwave Rectenna Plant/*"; DestDir: "{app}/Plugins/Utilities/Somy Microwave Rectenna Plant"; Components: utilities\microwave_rectenna_plant_by_somy; Flags: recursesubdirs
 Source: "Plugins/Utilities/Black Hole Water Works/*"; DestDir: "{app}/Plugins/Utilities/Black Hole Water Works"; Components: utilities\black_hole_water_works; Flags: recursesubdirs
 Source: "Plugins/Utilities/Black Hole Waste Management Corp/*"; DestDir: "{app}/Plugins/Utilities/Black Hole Waste Management Corp"; Components: utilities\black_hole_waste_management_corp; Flags: recursesubdirs
+
+
+; Dependencies
+
+Source: "Plugins/Dependencies/BMD Mediterranean Style Farms/*"; DestDir: "{app}/Plugins/Dependencies/BMD Mediterranean Style Farms"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSCBATPropsMattb325_Vol02/*"; DestDir: "{app}/Plugins/Dependencies/BSCBATPropsMattb325_Vol02"; Components: parks\paengs_parks_revisited; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Essentials/*"; DestDir: "{app}/Plugins/Dependencies/BSC Essentials"; Components: mods\cam buildings\simgoober_growables parks\paengs_parks_revisited parks\public_pools_pack health_and_education\goobergen_rural_hospital health_and_education\goobergen_hospital buildings\ndex_wilkshire_tower buildings\ndex_seaview_tower buildings\ndex_panpacific_building buildings\ndex_atlantic_plaza buildings\ndex_intregen_corporate_center buildings\ndex_diamond_financial_center buildings\ndex_tiberian_thanefirst_center buildings\ndex_windspear_arena; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Farm Fields BLS Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC Farm Fields BLS Vol01"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Farm Fields BLS Vol04/*"; DestDir: "{app}/Plugins/Dependencies/BSC Farm Fields BLS Vol04"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Farm Fields CSX Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC Farm Fields CSX Vol01"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props CP Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props CP Vol01"; Components: mods\cam buildings\simgoober_growables; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props D66 Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props D66 Vol01"; Components: mods\cam buildings\simgoober_growables; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props D66 Vol02/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props D66 Vol02"; Components: mods\cam parks\paengs_parks_revisited; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Mega Props DAE Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC Mega Props DAE Vol01"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props Gascooker Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props Gascooker Vol01"; Components: mods\cam buildings\simgoober_growables; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props Gascooker Vol02/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props Gascooker Vol02"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Mega Props JES Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC Mega Props JES Vol01"; Components: mods\cam buildings\simgoober_growables; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Mega Props JES Vol02/*"; DestDir: "{app}/Plugins/Dependencies/BSC Mega Props JES Vol02"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Mega Props JES Vol03/*"; DestDir: "{app}/Plugins/Dependencies/BSC Mega Props JES Vol03"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Mega Props JES Vol04/*"; DestDir: "{app}/Plugins/Dependencies/BSC Mega Props JES Vol04"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Mega Props JES Vol05/*"; DestDir: "{app}/Plugins/Dependencies/BSC Mega Props JES Vol05"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props MBEAR Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props MBEAR Vol01"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props MBEAR Vol02/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props MBEAR Vol02"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props MBEAR Vol03/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props MBEAR Vol03"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props Misc Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props Misc Vol01"; Components: mods\cam buildings\simgoober_growables; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props MJB Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props MJB Vol01"; Components: buildings\simgoober_growables; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props MJB Vol02/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props MJB Vol02"; Components: parks\paengs_parks_revisited; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props RT Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props RT Vol01"; Components: mods\cam buildings\simgoober_growables; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props RT Vol02/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props RT Vol02"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props SG Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props SG Vol01"; Components: mods\cam buildings\simgoober_growables parks\paengs_parks_revisited health_and_education\goobergen_rural_hospital health_and_education\goobergen_hospital; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props swi21 Vol01/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props swi21 Vol01"; Components: mods\cam buildings\simgoober_growables parks\paengs_parks_revisited; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC MEGA Props swi21 Vol02/*"; DestDir: "{app}/Plugins/Dependencies/BSC MEGA Props swi21 Vol02"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC TexturePack Cycledogg/*"; DestDir: "{app}/Plugins/Dependencies/BSC TexturePack Cycledogg"; Components: mods\cam health_and_education\goobergen_rural_hospital; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Textures Vol 01/*"; DestDir: "{app}/Plugins/Dependencies/BSC Textures Vol 01"; Components: mods\cam buildings\simgoober_growables parks\public_pools_pack health_and_education\goobergen_rural_hospital health_and_education\goobergen_hospital; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Textures Vol 02/*"; DestDir: "{app}/Plugins/Dependencies/BSC Textures Vol 02"; Components: mods\cam buildings\simgoober_growables; Flags: recursesubdirs
+Source: "Plugins/Dependencies/BSC Textures Vol03/*"; DestDir: "{app}/Plugins/Dependencies/BSC Textures Vol03"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/Cerulean Textures V101/*"; DestDir: "{app}/Plugins/Dependencies/Cerulean Textures V101"; Components: buildings\ndex_seaview_tower; Flags: recursesubdirs
+Source: "Plugins/Dependencies/CSX MEGA Props Vol03/*"; DestDir: "{app}/Plugins/Dependencies/CSX MEGA Props Vol03"; Components: buildings\simgoober_growables; Flags: recursesubdirs
+Source: "Plugins/Dependencies/CSX MEGA Props Vol05/*"; DestDir: "{app}/Plugins/Dependencies/CSX MEGA Props Vol05"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/LBT Mega Prop Pack Vol01/*"; DestDir: "{app}/Plugins/Dependencies/LBT Mega Prop Pack Vol01"; Components: health_and_education\lbt_hospitals_pack fire_and_police_departments\lbt_fire_station_pack fire_and_police_departments\lbt_police_stations_pack; Flags: recursesubdirs
+Source: "Plugins/Dependencies/LBT Mega Texture Pack Vol02/*"; DestDir: "{app}/Plugins/Dependencies/LBT Mega Texture Pack Vol02"; Components: health_and_education\lbt_hospitals_pack fire_and_police_departments\lbt_police_stations_pack; Flags: recursesubdirs
+Source: "Plugins/Dependencies/Murimk Props Vol02/*"; DestDir: "{app}/Plugins/Dependencies/Murimk Props Vol02"; Components: parks\paengs_parks_revisited; Flags: recursesubdirs
+Source: "Plugins/Dependencies/NDEX Global Essentials/*"; DestDir: "{app}/Plugins/Dependencies/NDEX Global Essentials"; Components: buildings\ndex_wilkshire_tower buildings\ndex_seaview_tower buildings\ndex_panpacific_building buildings\ndex_atlantic_plaza buildings\ndex_intregen_corporate_center buildings\ndex_diamond_financial_center buildings\ndex_tiberian_thanefirst_center buildings\ndex_windspear_arena; Flags: recursesubdirs
+Source: "Plugins/Dependencies/NDEX Texture Set Vol01/*"; DestDir: "{app}/Plugins/Dependencies/NDEX Texture Set Vol01"; Components: buildings\ndex_wilkshire_tower buildings\ndex_seaview_tower buildings\ndex_panpacific_building buildings\ndex_atlantic_plaza buildings\ndex_intregen_corporate_center buildings\ndex_diamond_financial_center buildings\ndex_tiberian_thanefirst_center buildings\ndex_windspear_arena; Flags: recursesubdirs
+Source: "Plugins/Dependencies/Paeng Texture Pack/*"; DestDir: "{app}/Plugins/Dependencies/Paeng Texture Pack"; Components: parks\paengs_parks_revisited; Flags: recursesubdirs
+Source: "Plugins/Dependencies/PEG MTP Mountain Theme Pack/*"; DestDir: "{app}/Plugins/Dependencies/PEG MTP Mountain Theme Pack"; Components: buildings\simgoober_growables; Flags: recursesubdirs
+Source: "Plugins/Dependencies/PEG MTP Texture Pack/*"; DestDir: "{app}/Plugins/Dependencies/PEG MTP Texture Pack"; Components: buildings\simgoober_growables; Flags: recursesubdirs
+Source: "Plugins/Dependencies/PEG Security Fencing Kit/*"; DestDir: "{app}/Plugins/Dependencies/PEG Security Fencing Kit"; Components: utilities\peg_geothermal_power_plant; Flags: recursesubdirs
+Source: "Plugins/Dependencies/Porkie Props Vol01/*"; DestDir: "{app}/Plugins/Dependencies/Porkie Props Vol01"; Components: mods\cam parks\paengs_parks_revisited; Flags: recursesubdirs
+Source: "Plugins/Dependencies/Porkie Props Vol02/*"; DestDir: "{app}/Plugins/Dependencies/Porkie Props Vol02"; Components: mods\cam parks\paengs_parks_revisited; Flags: recursesubdirs
+Source: "Plugins/Dependencies/Railyard and Spur Textures/*"; DestDir: "{app}/Plugins/Dependencies/Railyard and Spur Textures"; Components: mods\cam; Flags: recursesubdirs
+Source: "Plugins/Dependencies/SFBT Essentials/*"; DestDir: "{app}/Plugins/Dependencies/SFBT Essentials"; Components: utilities\sfbt_microwave_power_plant; Flags: recursesubdirs
+Source: "Plugins/Dependencies/SG Bus Stops BSC/*"; DestDir: "{app}/Plugins/Dependencies/SG Bus Stops BSC"; Components: mods\rtmt; Flags: recursesubdirs
+Source: "Plugins/Dependencies/SPOT/*"; DestDir: "{app}/Plugins/Dependencies/SPOT"; Components: parks\paengs_parks_revisited; Flags: recursesubdirs
+
