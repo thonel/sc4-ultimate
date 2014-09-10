@@ -40,7 +40,7 @@ Plugin | Version | File name | Last update
 [Hole Digging Lots](http://community.simtropolis.com/files/file/3599-hole-digging-lots/) | 2 | Hole Digging Lots V2.zip | 2004-07-14
 [SimFox Day and Nite Modd](http://community.simtropolis.com/files/file/23089-simfox-day-and-nite-modd/) | 1 | SimFox_Day_n_Nite_Modd.zip |  2011-08-13
 [Realistic Water](http://community.simtropolis.com/files/file/21304-realistic-water-v1-by-joerg-and-teirusu/) | 1 | DarkBlueishGreenish.zip | 2003-11-24
-[Simoleon RH](http://community.simtropolis.com/files/download/21312-simoleon-rh/) | N/A | SimoleonRH.zip | 2003-11-08
+[Simoleon RH](http://community.simtropolis.com/files/file/21312-simoleon-rh/) | N/A | SimoleonRH.zip | 2003-11-08
 [Light Replacement Mod - SimCity 2013](http://community.simtropolis.com/files/file/28379-light-replacement-mod-simcity-2013/) | v5.1 | LRMv5_SC2013_Set.zip | 2013-04-14
 
 
@@ -54,9 +54,9 @@ Plugin | File name
 [DuskTroopers Keaton Plaza](http://community.simtropolis.com/files/file/2780-dusktroopers-keaton-plaza/) | DuskTroopers Keaton Plaza.zip
 [McDonalds v1](http://community.simtropolis.com/files/file/11053-mcdonalds-v1/) | Install_McDonalds_kevdan25_BSC.zip
 [HK Garden Estate Towers](http://community.simtropolis.com/files/file/15848-hk-garden-estate-towers/) | HK Garden Estate Towers (Bixel).zip
-BSC Essentials | BSC_Install_EssentialFiles.zip
-NDEX Global Essentials | NDEX Essentials Installer.zip
-NDEX Texture Set Volume 1 | NDEX Texture Pack Volume 1.zip
+[BSC Essentials](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=90) | BSC_Install_EssentialFiles.zip
+[NDEX Global Essentials](http://community.simtropolis.com/files/file/12730-ndex-global-essentials-file/) | NDEX Essentials Installer.zip
+[NDEX Texture Set Volume 1](http://community.simtropolis.com/files/file/11617-ndex-texture-set-volume-1/) | NDEX Texture Pack Volume 1.zip
 [NDEX Wilkshire Tower by Conceptual](http://community.simtropolis.com/files/file/11538-ndex-wilkshire-tower-by-conceptual/) | NDEX Wilkshire Tower2.zip
 [Washington Tower](http://community.simtropolis.com/files/file/3392-washington-tower/) | Washington Tower1.zip
 [nVIDIA Corporation Building](http://community.simtropolis.com/files/file/19149-nvidia-corporation-building/) |  nvidia corp by Blanco - TSC team.zip
@@ -64,7 +64,7 @@ NDEX Texture Set Volume 1 | NDEX Texture Pack Volume 1.zip
 [Tung Chung Crescent](http://community.simtropolis.com/files/file/16494-tung-chung-crescent/) | TungChungCrescent.zip
 [The Cobb Oceanic](http://community.simtropolis.com/files/file/3480-the-cobb-oceanic/) | Cobb32118_Cobb_Oceanic1.zip
 [XDesign Polish Prefabs Set Volume I](http://community.simtropolis.com/files/file/15600-xdesign-polish-prefabs-set-volume-i/) | XDesign Polish Prefabs Set Volume I.zip
-Cerulean Textures V101 | Cerulean_Textures_V101v51.zip
+[Cerulean Textures V101](http://community.simtropolis.com/files/file/3271-cerulean-textures-v101/) | Cerulean_Textures_V101v51.zip
 [NDEX SeaView Tower by Oneil](http://community.simtropolis.com/files/file/11209-ndex-seaview-tower-by-oneil/) | NDEX_SeaView_Tower_V2.zip
 [Robust Robots Inc](http://community.simtropolis.com/files/file/11802-robust-robots-inc/) | PR_RobustRobotsInc.zip
 [Bank One Tower Indianapolis](http://community.simtropolis.com/files/file/10912-bank-one-tower-indianapolis/) | Bank One Building.zip
@@ -75,14 +75,14 @@ Cerulean Textures V101 | Cerulean_Textures_V101v51.zip
 [Burj Dubai](http://community.simtropolis.com/files/file/16672-burj-dubai/) | Burj Dubai.zip
 [LG Electronics](http://community.simtropolis.com/files/file/18325-lg-electronics/) | LG Electronics1.zip
 [NDEX Atlantic Plaza by Oneil](http://community.simtropolis.com/files/file/11579-ndex-atlantic-plaza-by-oneil/) | NDEX Atlantic Plaza.zip
-Porkie Props Vol01 | PorkieProps-Vol1.zip
+[Porkie Props Vol01](http://community.simtropolis.com/files/file/11421-porkie-props-vol1-european-street-accessories/) | PorkieProps-Vol1.zip | 2005/01/17
 [Paris AUX QUATRE SAISONS shopping center](http://community.simtropolis.com/files/file/12226-paris-aux-quatre-saisons-shopping-center/) | 4saisons.zip
 [NDEX IntreGen Corporate Center](http://community.simtropolis.com/files/file/4137-ndex-intregen-corporate-center/) | NDEX IntreGen Corporate Center.zip
 [New Anfield Stadium AKA Stanley Park](http://community.simtropolis.com/files/file/16765-new-anfield-stadium-aka-stanley-park/) | NewAnfieldV2.zip
 [NDEX Diamond Financial Center](http://community.simtropolis.com/files/file/13671-ndex-diamond-financial-center/) · | NDEX - Diamond Financial Center.zip
 [One and Two World Trade](http://community.simtropolis.com/files/file/2626-one-and-two-world-trade/) | WTCTowers.zip
 [NDEX Tiberian Thanefirst by DuskTrooper](http://community.simtropolis.com/files/file/12622-ndex-tiberian-thanefirst-by-dusktrooper/) · | NDEX Tiberian Thanefirst Center.zip
-[NDEX Windspear Arena](http://community.simtropolis.com/files/download/11745-ndex-windspear-arena-by-eburress/) | NDEX Windspear Arena.zip
+[NDEX Windspear Arena](http://community.simtropolis.com/files/file/11745-ndex-windspear-arena-by-eburress/) | NDEX Windspear Arena.zip
 
 
 # Health and Education
@@ -91,32 +91,32 @@ Plugin | File name
 ------ | ---------
 [Simgoober Education Lots BSC](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1382) | Install_SG_Education_Lots_BSC.zip
 [SOMY Consolidated Hospital Complex](http://community.simtropolis.com/files/file/11175-somy-consolidated-hospital-complex/) | SOMY_Consolidated_Hospital.zip
-[LBT Hospitals Pack Version Gold](http://community.simtropolis.com/files/download/20035-lbt-hospitals-pack-version-gold/) | LBT Hospitals Pack Gold.zip
-BSC Essentials | BSC_Install_EssentialFiles.zip
-BSC MEGA Props - SG Vol 01 | SG_INSTALL_MEGAProps01.zip | 2007/04/23
+[LBT Hospitals Pack Version Gold](http://community.simtropolis.com/files/file/20035-lbt-hospitals-pack-version-gold/) | LBT Hospitals Pack Gold.zip
+[BSC Essentials](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=90) | BSC_Install_EssentialFiles.zip
+[BSC MEGA Props - SG Vol 01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=746) | SG_INSTALL_MEGAProps01.zip
 [GooberGen Hospital](http://community.simtropolis.com/files/file/14479-goobergen-hospital/) | SG_Install_GooberGenHospital.zip
 [Simtropolis Metro Mercy Center Revised](http://community.simtropolis.com/files/file/3395-simtropolis-metro-mercy-center-revised/) | SMM.zip
 [Linda Swampy Medical Centre](http://community.simtropolis.com/files/file/27565-linda-swampy-medical-centre/) | DARKNIGHT_LSMC.zip
-BSC TexturePack Cycledogg V 01b |  Install_BSC_TexturePack_Cycledogg_V 01b.zip | 2007/01/30
-BSC Textures Vol 01 | BSC_Install_texturesVol01.zip | 2007/04/05
+[BSC TexturePack Cycledogg V 01b](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=101) |  Install_BSC_TexturePack_Cycledogg_V 01b.zip
+[BSC Textures Vol 01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=90) | BSC_Install_texturesVol01.zip | 2007/04/05
 [GooberGen Rural Hospital](http://community.simtropolis.com/files/file/16015-goobergen-rural-hospital/) | SG_Install_GooberGenRuralHospital.zip
-[University Clinic](http://community.simtropolis.com/files/download/575-university-clinic/) | UniversityClinic.zip
-[University of Applied Sciences](http://community.simtropolis.com/files/download/3439-university-of-applied-sciences/) | FH-Koeln-0x5ad0e817_0xcd34d9c6_0x690000.zip
+[University Clinic](http://community.simtropolis.com/files/file/575-university-clinic/) | UniversityClinic.zip
+[University of Applied Sciences](http://community.simtropolis.com/files/file/3439-university-of-applied-sciences/) | FH-Koeln-0x5ad0e817_0xcd34d9c6_0x690000.zip
 
 
 # Fire and Police Departments
 
 Plugin | File name
 ------ | ---------
-PARIS very large Fire Department | PK very large FD 6 engines.zip
-PARIS large Police Department | PK large PD.zip
-Modern Glass Police Station | Tonks Police Station.zip
-Simcity Police Headquarters | Simcity Police Headquarters_0c56a0df.zip
-Central Police Station | Jasoncw - Central Police Station.zip
-LBT Mega Prop Pack vol.01 | LBT_MegaPropPack_En.zip
-LBT Mega Texture Pack vol.02 | LBT_MegaTexturePack_En.zip
-LBT Fire Station Pack | LBT_FireStations.zip
-LBT Police Stations Pack | LBT_PoliceStPack.zip
+[PARIS very large Fire Department](http://community.simtropolis.com/files/file/14126-paris-very-large-fire-department/) | PK very large FD 6 engines.zip
+[PARIS large Police Department](http://community.simtropolis.com/files/file/14192-paris-large-police-department/) | PK large PD.zip
+[Modern Glass Police Station](http://community.simtropolis.com/files/file/11712-modern-glass-police-station/) | Tonks Police Station.zip
+[Simcity Police Headquarters](http://community.simtropolis.com/files/file/1193-simcity-police-headquarters/) | Simcity Police Headquarters_0c56a0df.zip
+[Central Police Station](http://community.simtropolis.com/files/file/20030-central-police-station/) | Jasoncw - Central Police Station.zip
+[LBT Mega Prop Pack vol.01](http://community.simtropolis.com/files/file/21770-lbt-mega-prop-pack-vol-01/) | LBT_MegaPropPack_En.zip
+[LBT Mega Texture Pack vol.02](http://community.simtropolis.com/files/file/21771-lbt-mega-texture-pack-vol-02/) | LBT_MegaTexturePack_En.zip
+[LBT Fire Station Pack](http://community.simtropolis.com/files/file/19608-lbt-fire-station-pack/) | LBT_FireStations.zip
+[LBT Police Stations Pack](http://community.simtropolis.com/files/file/19627-lbt-police-stations-pack/) | LBT_PoliceStPack.zip
 
 
 # Parks
@@ -131,17 +131,17 @@ Plugin | File name
 
 Plugin | File name
 ------ | ---------
-Microwave Rectenna Plant by SOMY | Somy Microwave Rectenna Plant.zip
-Ionizer Hydro Power System | IHPS.zip
-NOB Power Plant | NOB_PowerPlant.zip
-SFBT Essentials | SFBT_Essentials_March_2009_Setup.zip
-SFBT Microwave Power Plant by Stolloss | SFBT_microwave_power_plant1.zip
-PEG Security Fencing Kit | PEG_SecurityFence_RESOURCE_100.zip
-PEG Geothermal Power Plant | PEG_GeoThermalPowerPlant_101.zip
-Solar Tower | Solar Tower.zip
-Black Hole Water Works | Black Hole Water Works1.zip
-[PEG Garbage Chute](http://community.simtropolis.com/files/download/4569-peg-garbage-chute/) | PEG_Garbage-Chute_205-SU.zip
-Black Hole Waste Management Corp | BlackHoleManagementCorp.zip
+[Microwave Rectenna Plant by SOMY](http://community.simtropolis.com/files/file/11118-microwave-rectenna-plant-by-somy/) | Somy Microwave Rectenna Plant.zip
+[Ionizer Hydro Power System](http://community.simtropolis.com/files/file/638-ionizer-hydro-power-system/) | IHPS.zip
+[NOB Power Plant](http://community.simtropolis.com/files/file/17610-nob-power-plant/) | NOB_PowerPlant.zip
+[SFBT Essentials](http://community.simtropolis.com/files/file/14212-sfbt-essentials/) | SFBT_Essentials_March_2009_Setup.zip
+[SFBT Microwave Power Plant by Stolloss](http://community.simtropolis.com/files/file/13898-sfbt-microwave-power-plant-by-stolloss/) | SFBT_microwave_power_plant1.zip
+[PEG Security Fencing Kit](http://community.simtropolis.com/files/file/19338-peg-security-fencing-kit/) | PEG_SecurityFence_RESOURCE_100.zip
+[PEG Geothermal Power Plant](http://community.simtropolis.com/files/file/19417-peg-geothermal-power-plant/) | PEG_GeoThermalPowerPlant_101.zip
+[Solar Tower](http://community.simtropolis.com/files/file/26533-solar-tower/) | Solar Tower.zip
+[Black Hole Water Works](http://community.simtropolis.com/files/file/3477-black-hole-water-works/) | Black Hole Water Works1.zip
+[PEG Garbage Chute](http://community.simtropolis.com/files/file/4569-peg-garbage-chute/) | PEG_Garbage-Chute_205-SU.zip
+[Black Hole Waste Management Corp](http://community.simtropolis.com/files/file/2865-black-hole-waste-management-corp/) | BlackHoleManagementCorp.zip
 [Black Hole Waste Management](http://community.simtropolis.com/files/file/17907-black-hole-waste-management-v2/) | 2 | Black Hole Waste Management v21.zip | 2007-03-27
 
 
@@ -190,94 +190,93 @@ Plugin | File name | Last update
 
 Plugin | File name
 ------ | ---------
-SG Bus Stops BSC | Install_SG_Bus_Stops_BSC.zip
+[SG Bus Stops BSC](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1618) | Install_SG_Bus_Stops_BSC.zip
 
 
 ## Simgoober Growables
 
 Plugin | File name
 ------ | ---------
-simgoober Residentials Vol01 | Install_SG_Residentials_Vol01_BSC.zip
-simgoober Residentials Vol02 | Install_SG_Residentials_Vol02_BSC.zip
-simgoober Residentials Vol03 | Install_SG_Residentials_Vol03_BSC.zip
-simgoober Residentials Vol04 | Install_SG_Residentials_Vol04_BSC.zip
-SG Commercials Models Small Shops simgoober | Install_SG_Commercial_Models_Small_Shops_BSC.zip
-SG Commercials Models Entertainment simgoober | Install_SG_Commercial_Models_Entertainment_BSC.zip
-SG Commercials Models Department Stores | Install_SG_Commercial_Models_Department_Stores_BSC.zip
-SG Commercials Models Adult simgoober | Install_SG_Commercial_Models_Adult_BSC.zip
-SG Commercials Models Grocery Stores simgoober | Install_SG_Commercial_Models_Grocery_BSC.zip
-SG Commercials Models Sainsburys simgoober | Install_SG_Commercial_Models_Sainsburys_BSC.zip
-SG Commercials Models Hotels 1 simgoober | Install_SG_Commercial_Models_Hotels1_BSC.zip
-SG Commercials Models Hotels 2 simgoober | Install_SG_Commercial_Models_Hotels2_BSC.zip
-SG Commercials Models Motels simgoober | Install_SG_Commercial_Models_Motels_BSC.zip
-SG Commercials Models Large Stores simgoober | Install_SG_Large_Stores_Models.zip
-SG Commercials Models Malls simgoober | Install_SG_Commercial_Models_Malls_BSC.zip
-SG Commercials Models Medium Stores | Install_SG_Commercial_Models_Medium_Shops_BSC.zip
-SG Commercials Models Offices Hi-Rise 1 simgoober | Install_SG_Commercial_Models_Offices_HiRise1_BSC.zip
-SG Commercials Models Offices Hi-Rise 2 simgoober | Install_SG_Commercial_Models_Offices_HiRise2_BSC.zip
-SG Commercials Models Offices Medium simgoober | Install_SG_Commercial_Models_Offices_Medium_BSC.zip
-SG Commercials Models Restaurants simgoober | Install_SG_Commercial_Models_Restaurants_BSC.zip
-SG Commercials Ploppable lots simgoober | Install_SG_Commercial_Lots_Ploppables_BSC.zip
-BSC Essentials | BSC_Install_EssentialFiles.zip
-BSC MEGA Props - SG Vol 01 | SG_INSTALL_MEGAProps01.zip
-BSC MEGA Props - RT Vol01 | Install_BSC_MEGA_Props_RTVol01.zip
-BSC MEGA Props Gascooker Vol01 | Install_BSC_MEGA_Props_Gascooker_Vol01.zip
-BSC MEGA Props D66 Vol01 | Install_BSC_MEGA_Props_D66_Vol01.zip
-BSC MEGA Props - MJB Vol01 | Install_BSC_MEGA_Props_MJB_Vol01.zip
-BSC MEGA Props - swi21 Vol01 | Install_BSC_MEGA_Props_swi21_Vol01.zip
-CSX MEGA Props - Vol03 | Install_CSX MEGA Props - Vol 03.zip
-BSC MEGA Props - Misc Vol01 | Install_BSC_MEGA_Props_Misc_Vol01.zip
-BSC MEGA Props CP Vol01 | Install_BSC_MEGA_PropPack_CP_Vol01.zip
-BSC MEGA Props - MJB Vol01 | Install_BSC_MEGA_Props_MJB_Vol01.zip
-BSCMegaProps JES Vol01 | Install_BSCMegaProps_JES_Vol01.zip
-PEG MTP Mountain Theme Pack | PEG_Mountain-Theme-Pack_205a_SU.zip
-PEG MTP Texture Pack 2a | PEG-MTP_TexturePack_Vol2a_SU.zip
-BSC Textures Vol 01 | BSC_Install_texturesVol01.zip
-BSC Textures Vol 02 | Install_BSC_Textures_Vol02.zip
-Industry Pack 01 | SG_Install_IndustrialPack01.zip
-Industry Pack 02 | SG_Install_IndustrialPack02.zip
-Industry Pack 03 | SG_Install_IndustryPack03.zip
+[simgoober Residentials Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1044) | Install_SG_Residentials_Vol01_BSC.zip
+[simgoober Residentials Vol02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1045) | Install_SG_Residentials_Vol02_BSC.zip
+[simgoober Residentials Vol03](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1046) | Install_SG_Residentials_Vol03_BSC.zip
+[simgoober Residentials Vol04](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1047) | Install_SG_Residentials_Vol04_BSC.zip
+[SG Commercials Models Small Shops simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1123) | Install_SG_Commercial_Models_Small_Shops_BSC.zip
+[SG Commercials Models Entertainment simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1095) | Install_SG_Commercial_Models_Entertainment_BSC.zip
+[SG Commercials Models Department Stores](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1093) | Install_SG_Commercial_Models_Department_Stores_BSC.zip
+[SG Commercials Models Adult simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1091) | Install_SG_Commercial_Models_Adult_BSC.zip
+[SG Commercials Models Grocery Stores simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1097) | Install_SG_Commercial_Models_Grocery_BSC.zip
+[SG Commercials Models Sainsburys simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1099) | Install_SG_Commercial_Models_Sainsburys_BSC.zip
+[SG Commercials Models Hotels 1 simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1104) | Install_SG_Commercial_Models_Hotels1_BSC.zip
+[SG Commercials Models Hotels 2 simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1106) | Install_SG_Commercial_Models_Hotels2_BSC.zip
+[SG Commercials Models Motels simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1108) | Install_SG_Commercial_Models_Motels_BSC.zip
+[SG Commercials Models Large Stores simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1117) | Install_SG_Large_Stores_Models.zip
+[SG Commercials Models Malls simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1119) | Install_SG_Commercial_Models_Malls_BSC.zip
+[SG Commercials Models Medium Stores](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1121) | Install_SG_Commercial_Models_Medium_Shops_BSC.zip
+[SG Commercials Models Offices Hi-Rise 1 simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1110) | Install_SG_Commercial_Models_Offices_HiRise1_BSC.zip
+[SG Commercials Models Offices Hi-Rise 2 simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1112) | Install_SG_Commercial_Models_Offices_HiRise2_BSC.zip
+[SG Commercials Models Offices Medium simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1114) | Install_SG_Commercial_Models_Offices_Medium_BSC.zip
+[SG Commercials Models Restaurants simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1101) | Install_SG_Commercial_Models_Restaurants_BSC.zip
+[SG Commercials Ploppable lots simgoober](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1184) | Install_SG_Commercial_Lots_Ploppables_BSC.zip
+[BSC Essentials](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=90) | BSC_Install_EssentialFiles.zip
+[BSC MEGA Props - SG Vol 01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=746) | SG_INSTALL_MEGAProps01.zip
+[BSC MEGA Props - RT Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=398) | Install_BSC_MEGA_Props_RTVol01.zip
+[BSC MEGA Props Gascooker Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=397) | Install_BSC_MEGA_Props_Gascooker_Vol01.zip
+[BSC MEGA Props D66 Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=396) | Install_BSC_MEGA_Props_D66_Vol01.zip
+[BSC MEGA Props - MJB Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=407) | Install_BSC_MEGA_Props_MJB_Vol01.zip
+[BSC MEGA Props - swi21 Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=403) | Install_BSC_MEGA_Props_swi21_Vol01.zip
+[CSX MEGA Props - Vol03](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=461) | Install_CSX MEGA Props - Vol 03.zip
+[BSC MEGA Props - Misc Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=426) | Install_BSC_MEGA_Props_Misc_Vol01.zip
+[BSC MEGA Props CP Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1180) | Install_BSC_MEGA_PropPack_CP_Vol01.zip
+[BSCMegaProps JES Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=342) | Install_BSCMegaProps_JES_Vol01.zip
+[PEG MTP Mountain Theme Pack](http://community.simtropolis.com/files/file/14025-peg-mtp-mountain-theme-pack/) | PEG_Mountain-Theme-Pack_205a_SU.zip
+[PEG MTP Texture Pack 2a](http://community.simtropolis.com/files/file/15665-peg-mtp-texture-pack-2a/) | PEG-MTP_TexturePack_Vol2a_SU.zip
+[BSC Textures Vol 01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=90) | BSC_Install_texturesVol01.zip
+[BSC Textures Vol 02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=638) | Install_BSC_Textures_Vol02.zip
+[Industry Pack 01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1915) | SG_Install_IndustrialPack01.zip
+[Industry Pack 02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1916) | SG_Install_IndustrialPack02.zip
+[Industry Pack 03](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1991) | SG_Install_IndustryPack03.zip
 
 
 ## Simgoober Education Lots BSC
 
 Plugin | File name
 ------ | ---------
-BSC Essentials | BSC_Install_EssentialFiles.zip
-Simgoober Education Models BSC | Install_SG_Education_Models_BSC.zip
-BSC MEGA Props - Misc Vol01 | Install_BSC_MEGA_Props_Misc_Vol01.zip
-BSC MEGA Props - SG Vol 01 | SG_INSTALL_MEGAProps01.zip
-BSCMegaProps JES Vol01 | Install_BSCMegaProps_JES_Vol01.zip
-BSC MEGA Props CP Vol01 | Install_BSC_MEGA_PropPack_CP_Vol01.zip
-BSC Mega Props DAE Vol01 | DEDWD_MEGAPropPack_v100.zip
-CSX MEGA Props - Vol03 | Install_CSX MEGA Props - Vol 03.zip
-Porkie Props Vol01 | PorkieProps-Vol1.zip
-BSC Textures Vol 01 | BSC_Install_texturesVol01.zip
-BSC Textures Vol 02 | Install_BSC_Textures_Vol02.zip
+[BSC Essentials](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=90) | BSC_Install_EssentialFiles.zip
+[Simgoober Education Models BSC](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1381) | Install_SG_Education_Models_BSC.zip
+[BSC MEGA Props - Misc Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1381) | Install_BSC_MEGA_Props_Misc_Vol01.zip
+[BSC MEGA Props - SG Vol 01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=746) | SG_INSTALL_MEGAProps01.zip
+[BSCMegaProps JES Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=342) | Install_BSCMegaProps_JES_Vol01.zip
+[BSC MEGA Props CP Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1180) | Install_BSC_MEGA_PropPack_CP_Vol01.zip
+[BSC Mega Props DAE Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=475) | DEDWD_MEGAPropPack_v100.zip
+[CSX MEGA Props - Vol03](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=461) | Install_CSX MEGA Props - Vol 03.zip
+[Porkie Props Vol01](http://community.simtropolis.com/files/file/11421-porkie-props-vol1-european-street-accessories/) | PorkieProps-Vol1.zip
+[BSC Textures Vol 01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=90) | BSC_Install_texturesVol01.zip
+[BSC Textures Vol 02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=638) | Install_BSC_Textures_Vol02.zip
 
 
 ## Paeng's Parks Revisited
 
 Plugin | File name
 ------ | ---------
-Paeng Texture Pack v104 | paeng_TexturePack_v104.zip
-Murimk Props Vol02 v2.01 | Murimk_Props_Vol02_v201.zip
-BSC MEGA Props - SG Vol 01 | SG_INSTALL_MEGAProps01.zip
-BSCBATPropsMattb325_Vol02 | Install_BSCBATPropsMattb325_Vol02.zip
-BSC MEGA Props - MJB Vol02 | Install_BSCMEGAProps_MJB_Vol02.zip
-BSC MEGA Props - swi21 Vol01 | Install_BSC_MEGA_Props_swi21_Vol01.zip
-BSC MEGA Props D66 Vol02 | Install_BSC_MEGA_Props_D66_Vol02.zip
-Porkie Props Vol01 | PorkieProps-Vol1.zip
-Porkie Props Vol02 | PorkieProps-Vol2.zip
-SPOT | SPOT_V-rc101.zip
+[Paeng Texture Pack v104](http://www.simpeg.com/forum/index.php?action=downloads;sa=view;down=637) | paeng_TexturePack_v104.zip
+[Murimk Props Vol02 v2.01](http://www.simpeg.com/forum/index.php?action=downloads;sa=view;down=660) | Murimk_Props_Vol02_v201.zip
+[BSC MEGA Props - SG Vol 01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=746) | SG_INSTALL_MEGAProps01.zip
+[BSCBATPropsMattb325_Vol02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=2383) | Install_BSCBATPropsMattb325_Vol02.zip
+[BSC MEGA Props - MJB Vol02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=2422) | Install_BSCMEGAProps_MJB_Vol02.zip
+[BSC MEGA Props - swi21 Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=403) | Install_BSC_MEGA_Props_swi21_Vol01.zip
+[BSC MEGA Props D66 Vol02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=556) | Install_BSC_MEGA_Props_D66_Vol02.zip
+[Porkie Props Vol01](http://community.simtropolis.com/files/file/11421-porkie-props-vol1-european-street-accessories/) | PorkieProps-Vol1.zip
+[Porkie Props Vol02](http://community.simtropolis.com/forum/files/file/11420-porkie-props-vol2-seasonal-street-trees/) | PorkieProps-Vol2.zip
+[SPOT](http://www.simpeg.com/forum/index.php?action=downloads;sa=view;down=589) | SPOT_V-rc101.zip
 
 
 ## Public Pools Pack
 
 Plugin | File name
 ------ | ---------
-BSC Essentials | BSC_Install_EssentialFiles.zip
-BSC Textures Vol 01 | BSC_Install_texturesVol01.zip
+[BSC Essentials](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=90) | BSC_Install_EssentialFiles.zip
+[BSC Textures Vol 01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=90) | BSC_Install_texturesVol01.zip
 
 
 1: The BMD Mediterranean Style Farms contains four zip files:
