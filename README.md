@@ -151,39 +151,39 @@ Black Hole Waste Management Corp | BlackHoleManagementCorp.zip
 
 Plugin | File name | Last update
 ------ | --------- | -----------
-BSC Essentials | BSC_Install_EssentialFiles.zip | 2008/10/09
-BSC Textures Vol 01 | BSC_Install_texturesVol01.zip | 2007/04/05
-BSC Textures Vol 02 | Install_BSC_Textures_Vol02.zip | 2007/03/29
-BSC Textures Vol03 | Install_BSC_Textures_Vol03.zip | 2008/10/08 
-BSC TexturePack Cycledogg V 01b |  Install_BSC_TexturePack_Cycledogg_V 01b.zip | 2007/01/30
-BSC MEGA Props - SG Vol 01 | SG_INSTALL_MEGAProps01.zip | 2007/04/23
-BSC MEGA Props CP Vol01 | Install_BSC_MEGA_PropPack_CP_Vol01.zip  | 2012/06/02
-BSC MEGA Props D66 Vol01 | Install_BSC_MEGA_Props_D66_Vol01.zip | 2007/02/15
-BSC MEGA Props D66 Vol02 | Install_BSC_MEGA_Props_D66_Vol02.zip | 2007-02-28
-BSC MEGA Props - Misc Vol01 | Install_BSC_MEGA_Props_Misc_Vol01.zip | 2007/02/17
-BSCMegaProps JES Vol01 | Install_BSCMegaProps_JES_Vol01.zip | 2007/02/12
-BSCMegaProps jestarr Vol02 | Install_BSCMegaProps_jestarr_Vol02.zip | 2007/02/12
-BSCMegaProps JES Vol03 | Install_BSCMegaProps_JES_Vol03.zip | 2007/02/12
-BSC Mega Props - JES Vol04 | Install_BSCMegaProps_JES_Vol04.zip | 2007/05/06
-BSC Mega Props - JES Vol05 | Install_BSCMegaProps_JES_V0l05.zip | 2007/11/04
-BSC MEGA Props Gascooker Vol01 | Install_BSC_MEGA_Props_Gascooker_Vol01.zip | 2007/02/15
-BSC MEGA Props - Gascooker Vol02 | Install_BSCMEGAProps_Gascooker_Vol02.zip | 2007/06/30
-Porkie Props Vol01 | PorkieProps-Vol1.zip | 2005/01/17
-Porkie Props Vol02 | PorkieProps-Vol2.zip | 2005/01/27
-Railyard and Spur Textures, Mega Pack 1.02 | Install_ncd_Railyard Texture Mega-Pack Vol 1.02.zip | 2009/08/26
-BSC Mega Props DAE Vol01 | DEDWD_MEGAPropPack_v100.zip  | 2007/02/20
-CSX MEGA Props - Vol05 | Install_CSX MEGA Props - Vol 05.zip  | 2007/02/18
-BSC MEGA Props - RT Vol01 | Install_BSC_MEGA_Props_RTVol01.zip | 2007/02/15
-BSC MEGA Props - RT Vol02 | Install_BSCMEGAProps_RT_Vol02.zip | 2007/02/10
-BSC Farm Fields - CSX Vol01 | Install_BSC Farm Fields - CSX Vol 01.zip | 2007/03/15
-BSC Farm Fields - BLS Vol01 | Install_BSC_Field_Pack_BLS.zip | 2007/06/18
-BSC Farm Fields - BLS Vol04 | Install_BSC_Farm_Fields_BLS_Vol04.zip | 2007/07/06
-BSC MEGA Props - swi21 Vol01 | Install_BSC_MEGA_Props_swi21_Vol01.zip | 2007/02/15
-BSC MEGA Props - swi21 Vol02 | Install_BSC_MEGA_Props_swi21_Vol02.zip | 2007/02/15
-BMD Mediterranean Style Farms[1] | BMD Med style Farms and fields.zip | 2007/02/01
-BSC MEGA Props MBEAR Vol01 | Install_BSC_MEGA_Props_MBEAR_Vol01.zip | 2007/02/13
-BSC MEGA Props MBEAR Vol02 | Install_BSC_MEGA_Props_MBEAR_Vol02.zip | 2007/02/13
-BSC MEGA Props - MBEAR Vol03 | Install_BSCMEGAProps_MBEARVol03.zip | 2007/11/04
+[BSC Essentials](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=90) | BSC_Install_EssentialFiles.zip | 2008/10/09
+[BSC Textures Vol 01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=90) | BSC_Install_texturesVol01.zip | 2007/04/05
+[BSC Textures Vol 02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=638) | Install_BSC_Textures_Vol02.zip | 2007/03/29
+[BSC Textures Vol03](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1806) | Install_BSC_Textures_Vol03.zip | 2008/10/08 
+[BSC TexturePack Cycledogg V 01b](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=101) |  Install_BSC_TexturePack_Cycledogg_V 01b.zip | 2007/01/30
+[BSC MEGA Props - SG Vol 01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=746) | SG_INSTALL_MEGAProps01.zip | 2007/04/23
+[BSC MEGA Props CP Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1180) | Install_BSC_MEGA_PropPack_CP_Vol01.zip  | 2012/06/02
+[BSC MEGA Props D66 Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=396) | Install_BSC_MEGA_Props_D66_Vol01.zip | 2007/02/15
+[BSC MEGA Props D66 Vol02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=556) | Install_BSC_MEGA_Props_D66_Vol02.zip | 2007-02-28
+[BSC MEGA Props - Misc Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=426) | Install_BSC_MEGA_Props_Misc_Vol01.zip | 2007/02/17
+[BSCMegaProps JES Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=342) | Install_BSCMegaProps_JES_Vol01.zip | 2007/02/12
+[BSCMegaProps jestarr Vol02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=338) | Install_BSCMegaProps_jestarr_Vol02.zip | 2007/02/12
+[BSCMegaProps JES Vol03](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=339) | Install_BSCMegaProps_JES_Vol03.zip | 2007/02/12
+[BSC Mega Props - JES Vol04](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=791) | Install_BSCMegaProps_JES_Vol04.zip | 2007/05/06
+[BSC Mega Props - JES Vol05](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=1263) | Install_BSCMegaProps_JES_V0l05.zip | 2007/11/04
+[BSC MEGA Props Gascooker Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=397) | Install_BSC_MEGA_Props_Gascooker_Vol01.zip | 2007/02/15
+[BSC MEGA Props - Gascooker Vol02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=934) | Install_BSCMEGAProps_Gascooker_Vol02.zip | 2007/06/30
+[Porkie Props Vol01](http://community.simtropolis.com/files/file/11421-porkie-props-vol1-european-street-accessories/) | PorkieProps-Vol1.zip | 2005/01/17
+[Porkie Props Vol02](http://www.simtropolis.com/forum/files/file/11420-porkie-props-vol2-seasonal-street-trees/) | PorkieProps-Vol2.zip | 2005/01/27
+[Railyard and Spur Textures, Mega Pack 1.02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=2177) | Install_ncd_Railyard Texture Mega-Pack Vol 1.02.zip | 2009/08/26
+[BSC Mega Props DAE Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=475) | DEDWD_MEGAPropPack_v100.zip  | 2007/02/20
+[CSX MEGA Props - Vol05](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=463) | Install_CSX MEGA Props - Vol 05.zip  | 2007/02/18
+[BSC MEGA Props - RT Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=398) | Install_BSC_MEGA_Props_RTVol01.zip | 2007/02/15
+[BSC MEGA Props - RT Vol02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=228) | Install_BSCMEGAProps_RT_Vol02.zip | 2007/02/10
+[BSC Farm Fields - CSX Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=599) | Install_BSC Farm Fields - CSX Vol 01.zip | 2007/03/15
+[BSC Farm Fields - BLS Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=898) | Install_BSC_Field_Pack_BLS.zip | 2007/06/18
+[BSC Farm Fields - BLS Vol04](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=951) | Install_BSC_Farm_Fields_BLS_Vol04.zip | 2007/07/06
+[BSC MEGA Props - swi21 Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=403) | Install_BSC_MEGA_Props_swi21_Vol01.zip | 2007/02/15
+[BSC MEGA Props - swi21 Vol02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=405) | Install_BSC_MEGA_Props_swi21_Vol02.zip | 2007/02/15
+[BMD Mediterranean Style Farms](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=119) [1] | BMD Med style Farms and fields.zip | 2007/02/01
+[BSC MEGA Props MBEAR Vol01](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=345) | Install_BSC_MEGA_Props_MBEAR_Vol01.zip | 2007/02/13
+[BSC MEGA Props MBEAR Vol02](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=344) | Install_BSC_MEGA_Props_MBEAR_Vol02.zip | 2007/02/13
+[BSC MEGA Props - MBEAR Vol03](http://sc4devotion.com/csxlex/lex_filedesc.php?lotGET=343) | Install_BSCMEGAProps_MBEARVol03.zip | 2007/11/04
 
 
 ## RTMT
