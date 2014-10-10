@@ -1,8 +1,8 @@
 
 # Simcity 4 Ultimate Plugin Pack
 
-**Due to copyright reasons, it's never released and it will never be.** I am
-working on a new project now and hopefully it will give us an easy way to
+**Due to copyright reasons, this project never released and it will never be.**
+I am working on a new project now and hopefully it will give us an easy way to
 install our favorite plugins at once.
 
 Every dependency handled very carefully. Customizable one click installer will
